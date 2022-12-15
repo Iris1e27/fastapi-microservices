@@ -1,6 +1,7 @@
 # fastapi-microservices
 
 You need to open many terminals.
+
 1. 
 - cd inventory
 - pip install -r requirements.txt
